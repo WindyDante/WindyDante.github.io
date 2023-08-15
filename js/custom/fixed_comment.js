@@ -42,10 +42,10 @@ function FixedCommentBtn(){
   else{
     // 判断是否开启了pjax，尽量不破坏全局吸底音乐刷新
       if (pjax){
-        pjax.loadUrl("/comments/#post-comment");
+        pjax.loadUrl("/messageboard/#post-comment");
       }
       else{
-        window.location.href = "/comments/#post-comment";
+        window.location.href = "/messageboard/#post-comment";
       }
   }
 }

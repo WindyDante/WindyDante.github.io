@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>EastWind&amp;Blog</title>
+  <icon>http://www.eastwind.fun/icon.png</icon>
+  
+  <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
+  
+  <link href="http://www.eastwind.fun/"/>
+  <updated>2023-08-13T01:07:39.066Z</updated>
+  <id>http://www.eastwind.fun/</id>
+  
+  <author>
+    <name>EastWind</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>碎碎念</title>
+    <link href="http://www.eastwind.fun/eastwind/f3404829.html"/>
+    <id>http://www.eastwind.fun/eastwind/f3404829.html</id>
+    <published>2023-08-12T23:18:05.930Z</published>
+    <updated>2023-08-13T01:07:39.066Z</updated>
+    
+    
+    <summary type="html">来自自己的一些闲言碎语</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="http://www.eastwind.fun/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="碎碎念" scheme="http://www.eastwind.fun/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>瑞吉外卖优化</title>
+    <link href="http://www.eastwind.fun/eastwind/ea7374cf.html"/>
+    <id>http://www.eastwind.fun/eastwind/ea7374cf.html</id>
+    <published>2023-08-12T23:18:05.929Z</published>
+    <updated>2023-08-14T05:55:37.151Z</updated>
+    
+    
+    <summary type="html">瑞吉外卖的优化</summary>
+    
+    
+    
+    <category term="实战项目" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="瑞吉外卖优化" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
+    
+    <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>瑞吉外卖</title>
+    <link href="http://www.eastwind.fun/eastwind/a1e1aa91.html"/>
+    <id>http://www.eastwind.fun/eastwind/a1e1aa91.html</id>
+    <published>2023-08-12T23:18:05.928Z</published>
+    <updated>2023-08-14T02:59:45.413Z</updated>
+    
+    
+    <summary type="html">SpringBoot+vue实现的瑞吉外卖项目</summary>
+    
+    
+    
+    <category term="实战项目" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
+    
+    
+    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
+    
+    <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis入门</title>
+    <link href="http://www.eastwind.fun/eastwind/6a343b7f.html"/>
+    <id>http://www.eastwind.fun/eastwind/6a343b7f.html</id>
+    <published>2023-08-12T23:18:05.926Z</published>
+    <updated>2023-08-14T06:14:17.793Z</updated>
+    
+    
+    <summary type="html">Redis的快速入门教程</summary>
+    
+    
+    
+    <category term="Redis" scheme="http://www.eastwind.fun/categories/Redis/"/>
+    
+    
+    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
+    
+    <category term="Redis" scheme="http://www.eastwind.fun/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git工具</title>
+    <link href="http://www.eastwind.fun/eastwind/a97adaa0.html"/>
+    <id>http://www.eastwind.fun/eastwind/a97adaa0.html</id>
+    <published>2023-08-12T23:18:05.925Z</published>
+    <updated>2023-08-14T06:01:44.238Z</updated>
+    
+    
+    <summary type="html">Git快速入门教程</summary>
+    
+    
+    
+    <category term="Git" scheme="http://www.eastwind.fun/categories/Git/"/>
+    
+    
+    <category term="Git" scheme="http://www.eastwind.fun/tags/Git/"/>
+    
+    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
+    
+  </entry>
+  
+</feed>
