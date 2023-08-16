@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>EastWind&amp;Blog</title>
+  <title>EastWind</title>
   <icon>http://www.eastwind.fun/icon.png</icon>
   
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-08-13T01:07:39.066Z</updated>
+  <updated>2023-08-14T05:55:37.151Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -15,25 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>碎碎念</title>
-    <link href="http://www.eastwind.fun/eastwind/f3404829.html"/>
-    <id>http://www.eastwind.fun/eastwind/f3404829.html</id>
-    <published>2023-08-12T23:18:05.930Z</published>
-    <updated>2023-08-13T01:07:39.066Z</updated>
-    
-    
-    <summary type="html">来自自己的一些闲言碎语</summary>
-    
-    
-    
-    <category term="碎碎念" scheme="http://www.eastwind.fun/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-    
-    <category term="碎碎念" scheme="http://www.eastwind.fun/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-  </entry>
   
   <entry>
     <title>瑞吉外卖优化</title>
