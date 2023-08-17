@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-08-14T05:55:37.151Z</updated>
+  <updated>2023-08-17T01:15:25.771Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Postman工具</title>
+    <link href="http://www.eastwind.fun/eastwind/8cbd8d9c.html"/>
+    <id>http://www.eastwind.fun/eastwind/8cbd8d9c.html</id>
+    <published>2023-08-17T00:32:01.000Z</published>
+    <updated>2023-08-17T01:15:25.771Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于Postman在2018年后，就不支持浏览器版本，所以需要下载客户端再安装使用&lt;/p&gt;
+&lt;p&gt;下面以Windows为例进行安装&lt;/p&gt;
+&lt;h1 id=&quot;下载与安装&quot;&gt;&lt;a href=&quot;#下载与安装&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>瑞吉外卖优化</title>

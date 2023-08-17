@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Postman工具</title>
+      <link href="/eastwind/8cbd8d9c.html"/>
+      <url>/eastwind/8cbd8d9c.html</url>
+      
+        <content type="html"><![CDATA[<p>由于Postman在2018年后，就不支持浏览器版本，所以需要下载客户端再安装使用</p><p>下面以Windows为例进行安装</p><h1 id="下载与安装"><a href="#下载与安装" class="headerlink" title="下载与安装"></a>下载与安装</h1><p>访问postman官方网站，下载最新版本：<a href="https://www.postman.com/">https://www.postman.com/</a></p><p><img src="https://s2.loli.net/2023/08/17/bxGYAruhDpitvmg.png" alt="image-20230817085128946"></p><p>根据自己电脑的系统来下载</p><p><img src="https://s2.loli.net/2023/08/17/vc7gTsW2HaXYRKw.png" alt="image-20230817085254054"></p><p>下载好之后，进行安装，安装就不讲了，跟普通软件的安装方式是一样的，安装完成后，进行一个注册和登录，就可以进到页面里了</p><h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><img src="https://s2.loli.net/2023/08/17/HPwsemhAyEtGWjo.png" alt="image-20230817085610314" style="zoom:50%;" /><p>点击创建一个工作空间</p><img src="https://s2.loli.net/2023/08/17/QSFsIer6HNx9fVk.png" alt="image-20230817085643819" style="zoom:50%;" /><p><img src="https://s2.loli.net/2023/08/17/DLQHYWeMcE3Utq2.png" alt="image-20230817085753069"></p><p>创建完成后会来到如下页面</p><p>点击这个按钮会新建一个连接</p><p><img src="https://s2.loli.net/2023/08/17/Pj4eq6tByIkKxFO.png" alt="image-20230817085905695"></p><p>右击这个按钮，添加一个请求</p><img src="https://s2.loli.net/2023/08/17/aHqxbXsI2gPYKtG.png" alt="image-20230817090053973" style="zoom:50%;" /><p>默认是get请求，你可以根据自己的需求来确定</p><p><img src="https://s2.loli.net/2023/08/17/a897CmKxLyqpkJX.png" alt="image-20230817090116652"></p><h1 id="常见的连接方式"><a href="#常见的连接方式" class="headerlink" title="常见的连接方式"></a>常见的连接方式</h1><p>讲一下常见的几种连接参数</p><h2 id="Get请求"><a href="#Get请求" class="headerlink" title="Get请求"></a>Get请求</h2><p>一般把地址拷贝到地址栏里就可以了，下面的Response是响应的内容</p><img src="https://s2.loli.net/2023/08/17/daDpH6UzNMyrTXC.png" alt="image-20230817090340322" style="zoom: 33%;" /><h2 id="Post请求"><a href="#Post请求" class="headerlink" title="Post请求"></a>Post请求</h2><h3 id="表单类型的接口请求"><a href="#表单类型的接口请求" class="headerlink" title="表单类型的接口请求"></a>表单类型的接口请求</h3><p>表单类型数据其实就是在请求头中查看Content-Type，它的值如果是:application&#x2F;x-www-form-urlencoded ，那么就说明客户端提交的数据是以表单形式提交的，这里一般发送的都是表单类的请求测试</p><p><img src="https://s2.loli.net/2023/08/17/OXoKswUz6jq3YmI.png" alt="image-20230817090617628"></p><h3 id="上传文件的表单请求"><a href="#上传文件的表单请求" class="headerlink" title="上传文件的表单请求"></a>上传文件的表单请求</h3><p>跟表单数据差不多，其实就是将x-www-form-urlencoded改为了form-data，可以携带的参数由Text变为File，File的Value就可以选择文件了</p><p><img src="https://s2.loli.net/2023/08/17/RW1nczqJyA35sk7.png" alt="image-20230817091134556"></p><h3 id="json类型的接口请求"><a href="#json类型的接口请求" class="headerlink" title="json类型的接口请求"></a>json类型的接口请求</h3><p>都没啥区别，其实还是跟上面的类似，只需要简单的变动一下参数</p><img src="https://s2.loli.net/2023/08/17/KwIJh4YL81EDCem.png" alt="image-20230817091440542" style="zoom: 33%;" />]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>瑞吉外卖优化</title>
       <link href="/eastwind/ea7374cf.html"/>
       <url>/eastwind/ea7374cf.html</url>
