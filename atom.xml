@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-08-19T05:59:47.492Z</updated>
+  <updated>2023-08-27T12:48:42.302Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Redis基础篇</title>
+    <link href="http://www.eastwind.fun/eastwind/0.html"/>
+    <id>http://www.eastwind.fun/eastwind/0.html</id>
+    <published>2023-08-27T12:41:04.486Z</published>
+    <updated>2023-08-27T12:48:42.302Z</updated>
+    
+    
+    <summary type="html">Redis基础篇</summary>
+    
+    
+    
+    <category term="Redis" scheme="http://www.eastwind.fun/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="http://www.eastwind.fun/tags/Redis/"/>
+    
+  </entry>
   
   <entry>
     <title>MyBatis-Plus代码生成器</title>
@@ -31,9 +50,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="MyBatis-Plus" scheme="http://www.eastwind.fun/tags/MyBatis-Plus/"/>
+    
+    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -52,9 +71,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
-    
     <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
     
   </entry>
   
