@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-09-05T01:12:29.067Z</updated>
+  <updated>2023-09-10T13:25:35.762Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>SpringBoot3</title>
+    <title>SpringBoot2基础篇</title>
     <link href="http://www.eastwind.fun/eastwind/0.html"/>
     <id>http://www.eastwind.fun/eastwind/0.html</id>
+    <published>2023-09-07T06:34:47.940Z</published>
+    <updated>2023-09-10T13:25:35.762Z</updated>
+    
+    
+    <summary type="html">SpringBoot2基础篇</summary>
+    
+    
+    
+    <category term="SpringBoot" scheme="http://www.eastwind.fun/categories/SpringBoot/"/>
+    
+    
+    <category term="SpringBoot2" scheme="http://www.eastwind.fun/tags/SpringBoot2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot3</title>
+    <link href="http://www.eastwind.fun/eastwind/55656a4d.html"/>
+    <id>http://www.eastwind.fun/eastwind/55656a4d.html</id>
     <published>2023-09-04T04:42:48.609Z</published>
-    <updated>2023-09-05T01:12:29.067Z</updated>
+    <updated>2023-09-10T13:25:50.958Z</updated>
     
     
     <summary type="html">SpringBoot3</summary>
@@ -31,7 +50,7 @@
     <category term="SpringBoot" scheme="http://www.eastwind.fun/categories/SpringBoot/"/>
     
     
-    <category term="SpringBoot" scheme="http://www.eastwind.fun/tags/SpringBoot/"/>
+    <category term="SpringBoot3" scheme="http://www.eastwind.fun/tags/SpringBoot3/"/>
     
   </entry>
   
