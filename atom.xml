@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-09-10T13:25:35.762Z</updated>
+  <updated>2023-10-13T08:45:20.359Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,72 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Springboot+Vue 前后端分离 仓库管理系统</title>
+    <link href="http://www.eastwind.fun/eastwind/214f688e.html"/>
+    <id>http://www.eastwind.fun/eastwind/214f688e.html</id>
+    <published>2023-10-09T06:29:40.217Z</published>
+    <updated>2023-10-13T08:45:20.359Z</updated>
+    
+    
+    <summary type="html">SpringBoot+vue实现的瑞吉外卖项目</summary>
+    
+    
+    
+    <category term="实战项目" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="仓库管理系统" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
+    
+    <category term="仓库管理系统" scheme="http://www.eastwind.fun/tags/%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue2</title>
+    <link href="http://www.eastwind.fun/eastwind/4d45ebbb.html"/>
+    <id>http://www.eastwind.fun/eastwind/4d45ebbb.html</id>
+    <published>2023-09-19T00:25:31.089Z</published>
+    <updated>2023-10-09T06:10:21.372Z</updated>
+    
+    
+    <summary type="html">Vue2</summary>
+    
+    
+    
+    <category term="Vue" scheme="http://www.eastwind.fun/categories/Vue/"/>
+    
+    
+    <category term="Vue2" scheme="http://www.eastwind.fun/tags/Vue2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringBoot2高级篇</title>
+    <link href="http://www.eastwind.fun/eastwind/28014337.html"/>
+    <id>http://www.eastwind.fun/eastwind/28014337.html</id>
+    <published>2023-09-10T13:37:24.549Z</published>
+    <updated>2023-10-13T08:44:23.832Z</updated>
+    
+    
+    <summary type="html">SpringBoot2高级篇</summary>
+    
+    
+    
+    <category term="SpringBoot" scheme="http://www.eastwind.fun/categories/SpringBoot/"/>
+    
+    
+    <category term="SpringBoot2" scheme="http://www.eastwind.fun/tags/SpringBoot2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>SpringBoot2基础篇</title>
-    <link href="http://www.eastwind.fun/eastwind/0.html"/>
-    <id>http://www.eastwind.fun/eastwind/0.html</id>
+    <link href="http://www.eastwind.fun/eastwind/bd45f405.html"/>
+    <id>http://www.eastwind.fun/eastwind/bd45f405.html</id>
     <published>2023-09-07T06:34:47.940Z</published>
-    <updated>2023-09-10T13:25:35.762Z</updated>
+    <updated>2023-09-14T00:13:26.873Z</updated>
     
     
     <summary type="html">SpringBoot2基础篇</summary>
@@ -75,10 +136,10 @@
   
   <entry>
     <title>Redis基础篇</title>
-    <link href="http://www.eastwind.fun/eastwind/0.html"/>
-    <id>http://www.eastwind.fun/eastwind/0.html</id>
+    <link href="http://www.eastwind.fun/eastwind/4604f75b.html"/>
+    <id>http://www.eastwind.fun/eastwind/4604f75b.html</id>
     <published>2023-08-27T12:41:04.486Z</published>
-    <updated>2023-08-27T12:48:42.302Z</updated>
+    <updated>2023-10-13T08:44:33.799Z</updated>
     
     
     <summary type="html">Redis基础篇</summary>
@@ -107,9 +168,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="MyBatis-Plus" scheme="http://www.eastwind.fun/tags/MyBatis-Plus/"/>
-    
     <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="MyBatis-Plus" scheme="http://www.eastwind.fun/tags/MyBatis-Plus/"/>
     
   </entry>
   
@@ -128,9 +189,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
+    
+    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
