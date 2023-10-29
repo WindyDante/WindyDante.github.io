@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-10-13T08:45:20.359Z</updated>
+  <updated>2023-10-29T02:55:14.668Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>SpringSecurity</title>
+    <link href="http://www.eastwind.fun/eastwind/7d2eec83.html"/>
+    <id>http://www.eastwind.fun/eastwind/7d2eec83.html</id>
+    <published>2023-10-26T14:38:08.000Z</published>
+    <updated>2023-10-29T02:55:14.668Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;没有使用SpringSecurity框架的程序&quot;&gt;&lt;a href=&quot;#没有使用SpringSecurity框架的程序&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Springboot+Vue 前后端分离 仓库管理系统</title>
     <link href="http://www.eastwind.fun/eastwind/214f688e.html"/>
     <id>http://www.eastwind.fun/eastwind/214f688e.html</id>
     <published>2023-10-09T06:29:40.217Z</published>
-    <updated>2023-10-13T08:45:20.359Z</updated>
+    <updated>2023-10-13T08:45:34.440Z</updated>
     
     
     <summary type="html">SpringBoot+vue实现的瑞吉外卖项目</summary>
@@ -44,7 +65,7 @@
     <link href="http://www.eastwind.fun/eastwind/4d45ebbb.html"/>
     <id>http://www.eastwind.fun/eastwind/4d45ebbb.html</id>
     <published>2023-09-19T00:25:31.089Z</published>
-    <updated>2023-10-09T06:10:21.372Z</updated>
+    <updated>2023-10-29T00:53:17.560Z</updated>
     
     
     <summary type="html">Vue2</summary>
@@ -63,7 +84,7 @@
     <link href="http://www.eastwind.fun/eastwind/28014337.html"/>
     <id>http://www.eastwind.fun/eastwind/28014337.html</id>
     <published>2023-09-10T13:37:24.549Z</published>
-    <updated>2023-10-13T08:44:23.832Z</updated>
+    <updated>2023-10-13T08:45:34.438Z</updated>
     
     
     <summary type="html">SpringBoot2高级篇</summary>
@@ -139,7 +160,7 @@
     <link href="http://www.eastwind.fun/eastwind/4604f75b.html"/>
     <id>http://www.eastwind.fun/eastwind/4604f75b.html</id>
     <published>2023-08-27T12:41:04.486Z</published>
-    <updated>2023-10-13T08:44:33.799Z</updated>
+    <updated>2023-10-13T08:45:34.435Z</updated>
     
     
     <summary type="html">Redis基础篇</summary>
@@ -168,9 +189,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="MyBatis-Plus" scheme="http://www.eastwind.fun/tags/MyBatis-Plus/"/>
+    
+    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -189,9 +210,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
-    
     <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
     
   </entry>
   
