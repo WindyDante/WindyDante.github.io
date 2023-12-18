@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-11-10T07:42:05.572Z</updated>
+  <updated>2023-12-18T11:54:12.453Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -15,6 +15,74 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MySql高级</title>
+    <link href="http://www.eastwind.fun/eastwind/af491aa0.html"/>
+    <id>http://www.eastwind.fun/eastwind/af491aa0.html</id>
+    <published>2023-12-18T11:54:02.000Z</published>
+    <updated>2023-12-18T11:54:12.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;存储引擎&quot;&gt;&lt;a href=&quot;#存储引擎&quot; class=&quot;headerlink&quot; title=&quot;存储引擎&quot;&gt;&lt;/a&gt;存储引擎&lt;/h1&gt;&lt;h2 id=&quot;MySql体系结构&quot;&gt;&lt;a href=&quot;#MySql体系结构&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>若依框架前后端分离</title>
+    <link href="http://www.eastwind.fun/eastwind/19043010.html"/>
+    <id>http://www.eastwind.fun/eastwind/19043010.html</id>
+    <published>2023-12-04T08:33:24.000Z</published>
+    <updated>2023-12-18T11:53:03.570Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;启动若依&quot;&gt;&lt;a href=&quot;#启动若依&quot; class=&quot;headerlink&quot; title=&quot;启动若依&quot;&gt;&lt;/a&gt;启动若依&lt;/h1&gt;&lt;p&gt;来到若依的官网：&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>四级速记</title>
+    <link href="http://www.eastwind.fun/eastwind/ca69d4ed.html"/>
+    <id>http://www.eastwind.fun/eastwind/ca69d4ed.html</id>
+    <published>2023-11-22T00:36:55.000Z</published>
+    <updated>2023-12-18T11:53:03.568Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;succeed：suc(向下)，v.继承，i.成功&lt;/p&gt;
+&lt;p&gt;success：n.成功&lt;/p&gt;
+&lt;p&gt;succession：n.连续、继续&lt;/p&gt;
+&lt;p&gt;successful：成功的(adj)&lt;/p&gt;
+&lt;p&gt;successive：adj.连续的、继续的&lt;/p&gt;
+&lt;p&gt;s</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Docker</title>
@@ -97,7 +165,7 @@
     <link href="http://www.eastwind.fun/eastwind/28014337.html"/>
     <id>http://www.eastwind.fun/eastwind/28014337.html</id>
     <published>2023-09-10T13:37:24.549Z</published>
-    <updated>2023-10-13T08:45:34.438Z</updated>
+    <updated>2023-12-14T12:36:13.637Z</updated>
     
     
     <summary type="html">SpringBoot2高级篇</summary>
