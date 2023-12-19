@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-12-18T11:54:12.453Z</updated>
+  <updated>2023-12-19T13:07:51.254Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>MySql基础</title>
+    <link href="http://www.eastwind.fun/eastwind/8a2dddd9.html"/>
+    <id>http://www.eastwind.fun/eastwind/8a2dddd9.html</id>
+    <published>2023-12-19T06:52:48.000Z</published>
+    <updated>2023-12-19T13:07:51.254Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;什么是数据库？&quot;&gt;&lt;a href=&quot;#什么是数据库？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="MySql" scheme="http://www.eastwind.fun/tags/MySql/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MySql高级</title>
     <link href="http://www.eastwind.fun/eastwind/af491aa0.html"/>
     <id>http://www.eastwind.fun/eastwind/af491aa0.html</id>
     <published>2023-12-18T11:54:02.000Z</published>
-    <updated>2023-12-18T11:54:12.453Z</updated>
+    <updated>2023-12-18T11:54:25.802Z</updated>
     
     
       
@@ -110,8 +133,16 @@
     <link href="http://www.eastwind.fun/eastwind/7d2eec83.html"/>
     <id>http://www.eastwind.fun/eastwind/7d2eec83.html</id>
     <published>2023-10-26T14:38:08.000Z</published>
-    <updated>2023-11-04T06:23:23.121Z</updated>
+    <updated>2023-12-19T05:17:25.768Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;SpringSecurity简介&quot;&gt;&lt;a href=&quot;#SpringSecurity简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
@@ -270,9 +301,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
     <category term="MyBatis-Plus" scheme="http://www.eastwind.fun/tags/MyBatis-Plus/"/>
+    
+    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
@@ -291,9 +322,9 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
-    
     <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
     
   </entry>
   
