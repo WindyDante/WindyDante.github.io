@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2023-12-19T13:07:51.254Z</updated>
+  <updated>2024-01-21T10:51:48.494Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>nacos集群搭建</title>
+    <link href="http://www.eastwind.fun/eastwind/255b8e24.html"/>
+    <id>http://www.eastwind.fun/eastwind/255b8e24.html</id>
+    <published>2024-01-21T10:16:45.000Z</published>
+    <updated>2024-01-21T10:51:48.494Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;集群结构图&quot;&gt;&lt;a href=&quot;#集群结构图&quot; class=&quot;headerlink&quot; title=&quot;集群结构图&quot;&gt;&lt;/a&gt;集群结构图&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="nacos" scheme="http://www.eastwind.fun/tags/nacos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SpringCloud</title>
+    <link href="http://www.eastwind.fun/eastwind/96a41905.html"/>
+    <id>http://www.eastwind.fun/eastwind/96a41905.html</id>
+    <published>2024-01-20T02:10:33.000Z</published>
+    <updated>2024-01-27T11:10:57.728Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;认识微服务&quot;&gt;&lt;a href=&quot;#认识微服务&quot; class=&quot;headerlink&quot; title=&quot;认识微服务&quot;&gt;&lt;/a&gt;认识微服务&lt;/h1&gt;&lt;h2 id=&quot;服务架构演变&quot;&gt;&lt;a href=&quot;#服务架构演变&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>MySql基础</title>
     <link href="http://www.eastwind.fun/eastwind/8a2dddd9.html"/>
     <id>http://www.eastwind.fun/eastwind/8a2dddd9.html</id>
     <published>2023-12-19T06:52:48.000Z</published>
-    <updated>2023-12-19T13:07:51.254Z</updated>
+    <updated>2023-12-19T13:08:38.548Z</updated>
     
     
       
@@ -150,29 +194,6 @@
   </entry>
   
   <entry>
-    <title>Springboot+Vue 前后端分离 仓库管理系统</title>
-    <link href="http://www.eastwind.fun/eastwind/214f688e.html"/>
-    <id>http://www.eastwind.fun/eastwind/214f688e.html</id>
-    <published>2023-10-09T06:29:40.217Z</published>
-    <updated>2023-10-13T08:45:34.440Z</updated>
-    
-    
-    <summary type="html">SpringBoot+vue实现的瑞吉外卖项目</summary>
-    
-    
-    
-    <category term="实战项目" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
-    
-    <category term="仓库管理系统" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
-    
-    
-    <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
-    
-    <category term="仓库管理系统" scheme="http://www.eastwind.fun/tags/%E4%BB%93%E5%BA%93%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Vue2</title>
     <link href="http://www.eastwind.fun/eastwind/4d45ebbb.html"/>
     <id>http://www.eastwind.fun/eastwind/4d45ebbb.html</id>
@@ -234,7 +255,7 @@
     <link href="http://www.eastwind.fun/eastwind/55656a4d.html"/>
     <id>http://www.eastwind.fun/eastwind/55656a4d.html</id>
     <published>2023-09-04T04:42:48.609Z</published>
-    <updated>2023-09-10T13:25:50.958Z</updated>
+    <updated>2024-01-20T12:20:26.931Z</updated>
     
     
     <summary type="html">SpringBoot3</summary>
@@ -272,7 +293,7 @@
     <link href="http://www.eastwind.fun/eastwind/4604f75b.html"/>
     <id>http://www.eastwind.fun/eastwind/4604f75b.html</id>
     <published>2023-08-27T12:41:04.486Z</published>
-    <updated>2023-10-13T08:45:34.435Z</updated>
+    <updated>2024-01-20T12:20:47.867Z</updated>
     
     
     <summary type="html">Redis基础篇</summary>
