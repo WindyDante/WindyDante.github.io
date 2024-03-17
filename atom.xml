@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2024-01-21T10:51:48.494Z</updated>
+  <updated>2024-03-17T05:30:18.651Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Vue3</title>
+    <link href="http://www.eastwind.fun/eastwind/3a42db2d.html"/>
+    <id>http://www.eastwind.fun/eastwind/3a42db2d.html</id>
+    <published>2024-03-11T13:35:33.000Z</published>
+    <updated>2024-03-17T05:30:18.651Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;创建Vue3-0工程&quot;&gt;&lt;a href=&quot;#创建Vue3-0工程&quot; class=&quot;headerlink&quot; title=&quot;创建Vue3.0工程&quot;&gt;&lt;/a&gt;创建Vue3.0工程&lt;/h1&gt;&lt;h2 id=&quot;使用vue-cli创建&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构与算法</title>
+    <link href="http://www.eastwind.fun/eastwind/4b0178e0.html"/>
+    <id>http://www.eastwind.fun/eastwind/4b0178e0.html</id>
+    <published>2024-01-31T09:33:05.000Z</published>
+    <updated>2024-01-31T09:44:20.139Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>nacos集群搭建</title>
     <link href="http://www.eastwind.fun/eastwind/255b8e24.html"/>
     <id>http://www.eastwind.fun/eastwind/255b8e24.html</id>
     <published>2024-01-21T10:16:45.000Z</published>
-    <updated>2024-01-21T10:51:48.494Z</updated>
+    <updated>2024-01-27T11:11:53.313Z</updated>
     
     
       
@@ -44,7 +78,7 @@
     <link href="http://www.eastwind.fun/eastwind/96a41905.html"/>
     <id>http://www.eastwind.fun/eastwind/96a41905.html</id>
     <published>2024-01-20T02:10:33.000Z</published>
-    <updated>2024-01-27T11:10:57.728Z</updated>
+    <updated>2024-01-27T11:11:53.315Z</updated>
     
     
       
@@ -392,48 +426,6 @@
     <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
     
     <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis入门</title>
-    <link href="http://www.eastwind.fun/eastwind/6a343b7f.html"/>
-    <id>http://www.eastwind.fun/eastwind/6a343b7f.html</id>
-    <published>2023-08-12T23:18:05.926Z</published>
-    <updated>2023-08-14T06:14:17.793Z</updated>
-    
-    
-    <summary type="html">Redis的快速入门教程</summary>
-    
-    
-    
-    <category term="Redis" scheme="http://www.eastwind.fun/categories/Redis/"/>
-    
-    
-    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
-    
-    <category term="Redis" scheme="http://www.eastwind.fun/tags/Redis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Git工具</title>
-    <link href="http://www.eastwind.fun/eastwind/a97adaa0.html"/>
-    <id>http://www.eastwind.fun/eastwind/a97adaa0.html</id>
-    <published>2023-08-12T23:18:05.925Z</published>
-    <updated>2023-08-14T06:01:44.238Z</updated>
-    
-    
-    <summary type="html">Git快速入门教程</summary>
-    
-    
-    
-    <category term="Git" scheme="http://www.eastwind.fun/categories/Git/"/>
-    
-    
-    <category term="Git" scheme="http://www.eastwind.fun/tags/Git/"/>
-    
-    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
     
   </entry>
   
