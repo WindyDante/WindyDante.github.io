@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2024-04-05T15:15:58.909Z</updated>
+  <updated>2024-05-06T05:33:21.923Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>英语语法</title>
+    <link href="http://www.eastwind.fun/eastwind/81c4e30a.html"/>
+    <id>http://www.eastwind.fun/eastwind/81c4e30a.html</id>
+    <published>2024-04-25T11:48:01.000Z</published>
+    <updated>2024-05-06T05:33:21.923Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;语序和五种基本句型&quot;&gt;&lt;a href=&quot;#语序和五种基本句型&quot; class=&quot;headerlink&quot; title=&quot;语序和五种基本句型&quot;&gt;&lt;/a&gt;语序和五种基本句型&lt;/h1&gt;&lt;h2 id=&quot;英语的五种基本句式&quot;&gt;&lt;a href=&quot;#英语的五种基本句式&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>webSocket的使用</title>
+    <link href="http://www.eastwind.fun/eastwind/dad2757b.html"/>
+    <id>http://www.eastwind.fun/eastwind/dad2757b.html</id>
+    <published>2024-04-05T15:16:59.000Z</published>
+    <updated>2024-04-06T07:12:37.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前段时间做了一个二手平台，上面有个聊天功能，今天就给它写一写，具体页面就不写了，讲一讲功能&lt;/p&gt;
+&lt;p&gt;webSocket的是一种全双工的&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="webSocket" scheme="http://www.eastwind.fun/tags/webSocket/"/>
+    
+  </entry>
   
   <entry>
     <title>数据结构与算法</title>
@@ -65,7 +111,7 @@
     <link href="http://www.eastwind.fun/eastwind/4618cb0a.html"/>
     <id>http://www.eastwind.fun/eastwind/4618cb0a.html</id>
     <published>2024-03-01T04:49:49.000Z</published>
-    <updated>2024-03-17T11:45:36.216Z</updated>
+    <updated>2024-04-05T15:16:19.242Z</updated>
     
     
       
@@ -385,52 +431,6 @@
     <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>瑞吉外卖优化</title>
-    <link href="http://www.eastwind.fun/eastwind/ea7374cf.html"/>
-    <id>http://www.eastwind.fun/eastwind/ea7374cf.html</id>
-    <published>2023-08-12T23:18:05.929Z</published>
-    <updated>2023-08-14T05:55:37.151Z</updated>
-    
-    
-    <summary type="html">瑞吉外卖的优化</summary>
-    
-    
-    
-    <category term="实战项目" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
-    
-    <category term="瑞吉外卖优化" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96%E4%BC%98%E5%8C%96/"/>
-    
-    
-    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
-    
-    <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>瑞吉外卖</title>
-    <link href="http://www.eastwind.fun/eastwind/a1e1aa91.html"/>
-    <id>http://www.eastwind.fun/eastwind/a1e1aa91.html</id>
-    <published>2023-08-12T23:18:05.928Z</published>
-    <updated>2023-08-14T02:59:45.413Z</updated>
-    
-    
-    <summary type="html">SpringBoot+vue实现的瑞吉外卖项目</summary>
-    
-    
-    
-    <category term="实战项目" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
-    
-    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
-    
-    
-    <category term="瑞吉外卖" scheme="http://www.eastwind.fun/tags/%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96/"/>
-    
-    <category term="实战项目" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
