@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2024-05-10T07:05:35.086Z</updated>
+  <updated>2024-06-20T02:28:57.765Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,76 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>软件测试</title>
+    <link href="http://www.eastwind.fun/eastwind/7a8ab919.html"/>
+    <id>http://www.eastwind.fun/eastwind/7a8ab919.html</id>
+    <published>2024-06-14T13:42:23.000Z</published>
+    <updated>2024-06-20T02:28:57.765Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;接口测试&quot;&gt;&lt;a href=&quot;#接口测试&quot; class=&quot;headerlink&quot; title=&quot;接口测试&quot;&gt;&lt;/a&gt;接口测试&lt;/h1&gt;&lt;h2 id=&quot;接口测试流程&quot;&gt;&lt;a href=&quot;#接口测试流程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="软件测试" scheme="http://www.eastwind.fun/tags/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>android_Java版</title>
+    <link href="http://www.eastwind.fun/eastwind/7d680994.html"/>
+    <id>http://www.eastwind.fun/eastwind/7d680994.html</id>
+    <published>2024-05-25T11:28:16.000Z</published>
+    <updated>2024-07-15T12:27:26.652Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;安装安卓&quot;&gt;&lt;a href=&quot;#安装安卓&quot; class=&quot;headerlink&quot; title=&quot;安装安卓&quot;&gt;&lt;/a&gt;安装安卓&lt;/h1&gt;&lt;p&gt;谷歌开发者的中文网站可以直接下载Android Studio，详细的下载页面是&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Axure9</title>
+    <link href="http://www.eastwind.fun/eastwind/f07f281e.html"/>
+    <id>http://www.eastwind.fun/eastwind/f07f281e.html</id>
+    <published>2024-05-22T06:59:57.000Z</published>
+    <updated>2024-07-15T13:07:52.224Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Axure9的页面介绍&quot;&gt;&lt;a href=&quot;#Axure9的页面介绍&quot; class=&quot;headerlink&quot; title=&quot;Axure9的页面介绍&quot;&gt;&lt;/a&gt;Axure9的页面介绍&lt;/h1&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>英语语法</title>
     <link href="http://www.eastwind.fun/eastwind/81c4e30a.html"/>
     <id>http://www.eastwind.fun/eastwind/81c4e30a.html</id>
     <published>2024-04-25T11:48:01.000Z</published>
-    <updated>2024-05-10T07:05:35.086Z</updated>
+    <updated>2024-05-20T09:02:21.641Z</updated>
     
     
       
@@ -340,7 +405,7 @@
     <link href="http://www.eastwind.fun/eastwind/55656a4d.html"/>
     <id>http://www.eastwind.fun/eastwind/55656a4d.html</id>
     <published>2023-09-04T04:42:48.609Z</published>
-    <updated>2024-01-20T12:20:26.931Z</updated>
+    <updated>2024-07-15T13:09:52.191Z</updated>
     
     
     <summary type="html">SpringBoot3</summary>
@@ -370,67 +435,6 @@
     
     
     <category term="Redis" scheme="http://www.eastwind.fun/tags/Redis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis基础篇</title>
-    <link href="http://www.eastwind.fun/eastwind/4604f75b.html"/>
-    <id>http://www.eastwind.fun/eastwind/4604f75b.html</id>
-    <published>2023-08-27T12:41:04.486Z</published>
-    <updated>2024-01-20T12:20:47.867Z</updated>
-    
-    
-    <summary type="html">Redis基础篇</summary>
-    
-    
-    
-    <category term="Redis" scheme="http://www.eastwind.fun/categories/Redis/"/>
-    
-    
-    <category term="Redis" scheme="http://www.eastwind.fun/tags/Redis/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyBatis-Plus代码生成器</title>
-    <link href="http://www.eastwind.fun/eastwind/ced26210.html"/>
-    <id>http://www.eastwind.fun/eastwind/ced26210.html</id>
-    <published>2023-08-19T05:18:36.000Z</published>
-    <updated>2023-08-19T05:59:47.492Z</updated>
-    
-    
-    <summary type="html">Git快速入门教程</summary>
-    
-    
-    
-    <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="MyBatis-Plus" scheme="http://www.eastwind.fun/tags/MyBatis-Plus/"/>
-    
-    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Postman工具</title>
-    <link href="http://www.eastwind.fun/eastwind/8cbd8d9c.html"/>
-    <id>http://www.eastwind.fun/eastwind/8cbd8d9c.html</id>
-    <published>2023-08-17T00:32:01.000Z</published>
-    <updated>2023-08-17T01:23:54.088Z</updated>
-    
-    
-    <summary type="html">Postman的常见使用方法</summary>
-    
-    
-    
-    <category term="实用工具" scheme="http://www.eastwind.fun/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="实用工具" scheme="http://www.eastwind.fun/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
-    
-    <category term="Postman" scheme="http://www.eastwind.fun/tags/Postman/"/>
     
   </entry>
   
