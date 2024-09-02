@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2024-06-20T02:28:57.765Z</updated>
+  <updated>2024-08-28T06:33:24.923Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,95 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>mongoDB</title>
+    <link href="http://www.eastwind.fun/eastwind/41106fe2.html"/>
+    <id>http://www.eastwind.fun/eastwind/41106fe2.html</id>
+    <published>2024-08-28T05:55:32.000Z</published>
+    <updated>2024-08-28T06:33:24.923Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;MongoDB概念&quot;&gt;&lt;a href=&quot;#MongoDB概念&quot; class=&quot;headerlink&quot; title=&quot;MongoDB概念&quot;&gt;&lt;/a&gt;MongoDB概念&lt;/h1&gt;&lt;p&gt;MongoDB</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>规则引擎Drools</title>
+    <link href="http://www.eastwind.fun/eastwind/bc098de5.html"/>
+    <id>http://www.eastwind.fun/eastwind/bc098de5.html</id>
+    <published>2024-08-21T01:39:10.000Z</published>
+    <updated>2024-08-21T13:20:42.306Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;规则引擎概述&quot;&gt;&lt;a href=&quot;#规则引擎概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>c语言</title>
+    <link href="http://www.eastwind.fun/eastwind/bcc4edaf.html"/>
+    <id>http://www.eastwind.fun/eastwind/bcc4edaf.html</id>
+    <published>2024-08-08T09:03:28.000Z</published>
+    <updated>2024-08-30T06:40:18.274Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;编译与链接&quot;&gt;&lt;a href=&quot;#编译与链接&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>高等数学</title>
+    <link href="http://www.eastwind.fun/eastwind/93e4730e.html"/>
+    <id>http://www.eastwind.fun/eastwind/93e4730e.html</id>
+    <published>2024-08-04T02:02:10.000Z</published>
+    <updated>2024-09-01T12:23:51.185Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;函数&quot;&gt;&lt;a href=&quot;#函数&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>软件测试</title>
     <link href="http://www.eastwind.fun/eastwind/7a8ab919.html"/>
     <id>http://www.eastwind.fun/eastwind/7a8ab919.html</id>
     <published>2024-06-14T13:42:23.000Z</published>
-    <updated>2024-06-20T02:28:57.765Z</updated>
+    <updated>2024-07-27T14:21:54.214Z</updated>
     
     
       
@@ -44,7 +128,7 @@
     <link href="http://www.eastwind.fun/eastwind/7d680994.html"/>
     <id>http://www.eastwind.fun/eastwind/7d680994.html</id>
     <published>2024-05-25T11:28:16.000Z</published>
-    <updated>2024-07-15T12:27:26.652Z</updated>
+    <updated>2024-07-27T14:21:54.210Z</updated>
     
     
       
@@ -65,7 +149,7 @@
     <link href="http://www.eastwind.fun/eastwind/f07f281e.html"/>
     <id>http://www.eastwind.fun/eastwind/f07f281e.html</id>
     <published>2024-05-22T06:59:57.000Z</published>
-    <updated>2024-07-15T13:07:52.224Z</updated>
+    <updated>2024-07-27T14:21:54.205Z</updated>
     
     
       
@@ -359,82 +443,6 @@
     
     
     <category term="Vue2" scheme="http://www.eastwind.fun/tags/Vue2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringBoot2高级篇</title>
-    <link href="http://www.eastwind.fun/eastwind/28014337.html"/>
-    <id>http://www.eastwind.fun/eastwind/28014337.html</id>
-    <published>2023-09-10T13:37:24.549Z</published>
-    <updated>2023-12-14T12:36:13.637Z</updated>
-    
-    
-    <summary type="html">SpringBoot2高级篇</summary>
-    
-    
-    
-    <category term="SpringBoot" scheme="http://www.eastwind.fun/categories/SpringBoot/"/>
-    
-    
-    <category term="SpringBoot2" scheme="http://www.eastwind.fun/tags/SpringBoot2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringBoot2基础篇</title>
-    <link href="http://www.eastwind.fun/eastwind/bd45f405.html"/>
-    <id>http://www.eastwind.fun/eastwind/bd45f405.html</id>
-    <published>2023-09-07T06:34:47.940Z</published>
-    <updated>2023-09-14T00:13:26.873Z</updated>
-    
-    
-    <summary type="html">SpringBoot2基础篇</summary>
-    
-    
-    
-    <category term="SpringBoot" scheme="http://www.eastwind.fun/categories/SpringBoot/"/>
-    
-    
-    <category term="SpringBoot2" scheme="http://www.eastwind.fun/tags/SpringBoot2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringBoot3</title>
-    <link href="http://www.eastwind.fun/eastwind/55656a4d.html"/>
-    <id>http://www.eastwind.fun/eastwind/55656a4d.html</id>
-    <published>2023-09-04T04:42:48.609Z</published>
-    <updated>2024-07-15T13:09:52.191Z</updated>
-    
-    
-    <summary type="html">SpringBoot3</summary>
-    
-    
-    
-    <category term="SpringBoot" scheme="http://www.eastwind.fun/categories/SpringBoot/"/>
-    
-    
-    <category term="SpringBoot3" scheme="http://www.eastwind.fun/tags/SpringBoot3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Redis实战篇</title>
-    <link href="http://www.eastwind.fun/eastwind/4604f75b.html"/>
-    <id>http://www.eastwind.fun/eastwind/4604f75b.html</id>
-    <published>2023-08-27T22:38:23.580Z</published>
-    <updated>2023-09-05T01:12:40.491Z</updated>
-    
-    
-    <summary type="html">Redis实战篇</summary>
-    
-    
-    
-    <category term="Redis" scheme="http://www.eastwind.fun/categories/Redis/"/>
-    
-    
-    <category term="Redis" scheme="http://www.eastwind.fun/tags/Redis/"/>
     
   </entry>
   
