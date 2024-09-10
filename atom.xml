@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2024-08-28T06:33:24.923Z</updated>
+  <updated>2024-09-03T01:41:30.419Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>freemarker基础</title>
+    <link href="http://www.eastwind.fun/eastwind/4adb11be.html"/>
+    <id>http://www.eastwind.fun/eastwind/4adb11be.html</id>
+    <published>2024-09-02T07:17:05.000Z</published>
+    <updated>2024-09-03T01:41:30.419Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;FreeMarker介绍&quot;&gt;&lt;a href=&quot;#FreeMarker介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="模板引擎技术" scheme="http://www.eastwind.fun/tags/%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>mongoDB</title>
     <link href="http://www.eastwind.fun/eastwind/41106fe2.html"/>
     <id>http://www.eastwind.fun/eastwind/41106fe2.html</id>
     <published>2024-08-28T05:55:32.000Z</published>
-    <updated>2024-08-28T06:33:24.923Z</updated>
+    <updated>2024-09-02T07:16:33.828Z</updated>
     
     
       
@@ -42,7 +65,7 @@
     <link href="http://www.eastwind.fun/eastwind/bc098de5.html"/>
     <id>http://www.eastwind.fun/eastwind/bc098de5.html</id>
     <published>2024-08-21T01:39:10.000Z</published>
-    <updated>2024-08-21T13:20:42.306Z</updated>
+    <updated>2024-09-02T07:16:33.830Z</updated>
     
     
       
@@ -63,7 +86,7 @@
     <link href="http://www.eastwind.fun/eastwind/bcc4edaf.html"/>
     <id>http://www.eastwind.fun/eastwind/bcc4edaf.html</id>
     <published>2024-08-08T09:03:28.000Z</published>
-    <updated>2024-08-30T06:40:18.274Z</updated>
+    <updated>2024-09-10T08:52:31.932Z</updated>
     
     
       
@@ -84,7 +107,7 @@
     <link href="http://www.eastwind.fun/eastwind/93e4730e.html"/>
     <id>http://www.eastwind.fun/eastwind/93e4730e.html</id>
     <published>2024-08-04T02:02:10.000Z</published>
-    <updated>2024-09-01T12:23:51.185Z</updated>
+    <updated>2024-09-02T07:16:33.831Z</updated>
     
     
       
@@ -424,25 +447,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Vue2</title>
-    <link href="http://www.eastwind.fun/eastwind/4d45ebbb.html"/>
-    <id>http://www.eastwind.fun/eastwind/4d45ebbb.html</id>
-    <published>2023-09-19T00:25:31.089Z</published>
-    <updated>2023-10-29T00:53:17.560Z</updated>
-    
-    
-    <summary type="html">Vue2</summary>
-    
-    
-    
-    <category term="Vue" scheme="http://www.eastwind.fun/categories/Vue/"/>
-    
-    
-    <category term="Vue2" scheme="http://www.eastwind.fun/tags/Vue2/"/>
     
   </entry>
   
