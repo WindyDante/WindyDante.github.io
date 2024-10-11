@@ -6,7 +6,7 @@
   <link href="http://www.eastwind.fun/atom.xml" rel="self"/>
   
   <link href="http://www.eastwind.fun/"/>
-  <updated>2024-09-29T11:22:41.717Z</updated>
+  <updated>2024-10-11T09:44:39.086Z</updated>
   <id>http://www.eastwind.fun/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何将自己手写的vue3项目自动化部署及自动化合并友链</title>
+    <link href="http://www.eastwind.fun/eastwind/3f4fdd42.html"/>
+    <id>http://www.eastwind.fun/eastwind/3f4fdd42.html</id>
+    <published>2024-10-11T06:22:27.000Z</published>
+    <updated>2024-10-11T09:44:39.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;手动部署项目&quot;&gt;&lt;a href=&quot;#手动部署项目&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>vscode安装想要的字体</title>
@@ -44,7 +65,7 @@
     <link href="http://www.eastwind.fun/eastwind/1d9fc4f6.html"/>
     <id>http://www.eastwind.fun/eastwind/1d9fc4f6.html</id>
     <published>2024-09-13T06:25:18.000Z</published>
-    <updated>2024-10-09T08:29:03.373Z</updated>
+    <updated>2024-10-10T08:23:54.155Z</updated>
     
     
       
@@ -173,7 +194,7 @@
     <link href="http://www.eastwind.fun/eastwind/93e4730e.html"/>
     <id>http://www.eastwind.fun/eastwind/93e4730e.html</id>
     <published>2024-08-04T02:02:10.000Z</published>
-    <updated>2024-10-08T13:20:53.152Z</updated>
+    <updated>2024-10-09T13:22:27.385Z</updated>
     
     
     <summary type="html">高等数学公式全解</summary>
@@ -385,23 +406,6 @@
     
     
     <category term="MySql" scheme="http://www.eastwind.fun/tags/MySql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MySql高级</title>
-    <link href="http://www.eastwind.fun/eastwind/af491aa0.html"/>
-    <id>http://www.eastwind.fun/eastwind/af491aa0.html</id>
-    <published>2023-12-18T11:54:02.000Z</published>
-    <updated>2024-09-27T02:59:41.921Z</updated>
-    
-    
-    <summary type="html">MySql高级</summary>
-    
-    
-    
-    <category term="微服务" scheme="http://www.eastwind.fun/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
-    
     
   </entry>
   
